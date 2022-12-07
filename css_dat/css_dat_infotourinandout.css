@@ -1,0 +1,50 @@
+#tours{
+    display: flex;
+    background-color: white;
+    margin-left: 100px;
+}
+.toursathome{
+    display: block;
+    margin-left: 50px;
+}
+.athome{
+    display: flex;
+    border-bottom:10px solid #f5f5f5;
+    margin:10px;
+}
+span{
+    color: #e74b48;
+}
+.seen{
+    color: black;
+    text-decoration: none;
+    padding-left: 100px;
+}
+.seen:hover{
+    color: #e74b48;
+}
+.topnav {
+    overflow: hidden;
+    background-color: white;
+    border-bottom : 5px solid #e74b48;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+  }
+  
+  .topnav a:hover {
+    border-bottom: 3px solid red;
+  }
+  
+  .topnav a.active {
+    border-bottom: 3px solid red;
+  }
+  
