@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+#search{
+    position: relative;
+  text-align: center;
+  color: white;
+  
+}
+.thapeiffel{
+    width: 100%;
+    height: 10%;
+}
+.find{
+    background-color: white;
+    position: absolute;
+    bottom: 16px;
+    left:200px;
+    padding: 20px;
+    display: flex;
+    width: 70%;
+}
+.chon{
+    margin-left: 10px;
+    
+}
+#tim{
+    margin-left: 10px;
+    text-align: center;
+    background-color:  #3e9bd8;
+}
+.finds{
+    margin-left: 200px;
+}
