@@ -5,3 +5,4 @@ Hồ Xuân Thịnh
 Đặng Thái Sơn
 Nguyễn Trọng Nghĩa
 Huỳnh Tuần Phát
+Nguyễn Tiến Đạt
